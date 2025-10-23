@@ -1,5 +1,5 @@
 # Multicore Variant Caller  
-**Parallel pseudo-haploid SNP caller for ancient DNA**
+**Parallel pseudo-haploid variant caller for ancient DNA**
 
 Created and maintained by the Lindo Ancient DNA Lab at Emory University
 
